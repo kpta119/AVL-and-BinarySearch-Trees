@@ -1,4 +1,4 @@
-##Project structure: 
+## Project structure: 
 The project is divided into several files:
 - **`dijkstra.py`** - contains implementations of the algorithm and its auxiliary functions
 - **`main.py file`** - the main file processing the graph from the file
@@ -9,7 +9,8 @@ Installation and startup procedure
 git clone https://github.com/kpta119/DijkstraAlgorithm.git
 ```
 2. Run the program:
-```bash python3 main.py [filepath]
+```bash
+python3 main.py [filepath]
 ```
 [filepath] - optional argument - name of the graph file to
 processing
